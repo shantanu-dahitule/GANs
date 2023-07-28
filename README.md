@@ -2,4 +2,4 @@
 Basic implementation of  Generative Adversarial Neural Network and its types
 
 - First Notebook:
-  Generation of images on random noise.
+  Generation of images using random noise. Anime Face Dataset
